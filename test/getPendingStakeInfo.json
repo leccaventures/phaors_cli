@@ -1,0 +1,17 @@
+{
+  "calledAtUTC": "2026-03-18T08:04:27Z",
+  "contract": "0x4100000000000000000000000000000000000000",
+  "inputs": {
+    "_delegator": "0x00000B834695138Ffd7E4BF07CB4470c292F4eE4",
+    "_poolId": "0x0a2c55a00df40b658738e1417622b69531d11b37c2cfac825a8e9f565a8064eb"
+  },
+  "method": "getPendingStakeInfo",
+  "outputs": {
+    "activationEpoch": "0",
+    "canActivateNow": false,
+    "pendingAmount": "0"
+  },
+  "rawHex": "0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "rpc": "https://atlantic-rpc.dplabs-internal.com",
+  "signature": "getPendingStakeInfo(bytes32,address)"
+}

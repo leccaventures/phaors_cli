@@ -1,0 +1,14 @@
+{
+  "calledAtUTC": "2026-03-18T08:04:25Z",
+  "contract": "0x4100000000000000000000000000000000000000",
+  "inputs": {
+    "_poolId": "0x8467c9cf1536642e27ed004d13af86753c312d2d7176a0ca48fe806894b573e2"
+  },
+  "method": "isValidatorActive",
+  "outputs": {
+    "ret0": true
+  },
+  "rawHex": "0x0000000000000000000000000000000000000000000000000000000000000001",
+  "rpc": "https://atlantic-rpc.dplabs-internal.com",
+  "signature": "isValidatorActive(bytes32)"
+}

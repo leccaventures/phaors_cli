@@ -1,0 +1,14 @@
+{
+  "calledAtUTC": "2026-03-18T08:04:26Z",
+  "contract": "0x4100000000000000000000000000000000000000",
+  "inputs": {},
+  "method": "getValidatorCounts",
+  "outputs": {
+    "activeCount": "32",
+    "inactiveCount": "0",
+    "pendingExitCount": "0"
+  },
+  "rawHex": "0x000000000000000000000000000000000000000000000000000000000000002000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "rpc": "https://atlantic-rpc.dplabs-internal.com",
+  "signature": "getValidatorCounts()"
+}
